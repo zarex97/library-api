@@ -17,9 +17,15 @@ Para realizar este ejercicio se realizaron los siguientes pasos
 <li>Subir a GitHub</li>
 </ol>
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Project setup
+
+## Bibliografía
+
+Bluuweb. (24 de Julio del 2023). <i>Curso completo de NEST JS: API REST con MySQL, TypeORM, TypeScript.</i> [https://www.youtube.com/watch?v=RWUmlsdZ1e4](https://www.youtube.com/watch?v=RWUmlsdZ1e4).
+
+Academind. (4 de Julio del 2019). <i>Nest.js with MongoDB - Complete Example</i>. [https://www.youtube.com/watch?v=ulfU5vY6I78](https://www.youtube.com/watch?v=ulfU5vY6I78).
+
+ZestMade. (21 de Octubre del 2023) <i>Nestjs PostgreSQL CRUD REST API Example with Typeorm.</i> [https://www.youtube.com/watch?v=pI9C7NH4K5c](https://www.youtube.com/watch?v=pI9C7NH4K5c).
 
 ```bash
 $ npm install
